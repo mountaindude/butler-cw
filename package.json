@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ptarmiganlabs/butler-cw#readme",
   "dependencies": {
     "@octokit/rest": "^18.0.6",
-    "axios": "^0.20.0",
+    "axios": "^0.21.0",
     "bluebird": "^3.7.2",
     "config": "^3.3.2",
     "enigma.js": "^2.7.2",
